@@ -1,0 +1,41 @@
+
+.logo{
+  width: 30%; 
+   height: 50%; 
+  display: block;
+  border-radius: 50% 50%;
+}
+
+.booking {
+  background-image: url(".././images/unnamed.jpg");
+  overflow: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.mine {
+  background-color: #17a2b8;
+  padding: 10px;
+  border-radius: 10px;
+} 
+.card {
+  width: 100%;
+  box-shadow: 10px 7px 10px gray;
+  padding: 10%;
+  border-radius: 20px;
+  
+}
+
+
+.row {
+  box-sizing: border-box;
+}
+
+
+
+.form-group {
+  /*it shoud be for form only*/
+  background-color: black;
+
+}
+
